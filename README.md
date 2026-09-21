@@ -23,6 +23,12 @@ The goal was to analyze this data to understand revenue trends, marketing effect
 
 ---
 
+## Database ER Diagram
+
+![ER Diagram](ER_Diagram.png)
+
+---
+
 ## What Was Implemented
 
 ### 1. Database Design (DDL)
@@ -93,6 +99,7 @@ A structured summary covering:
 |------|-------------|
 | `EdTech_SQL_Project.sql` | Complete SQL script containing all DDL, DML, Queries, Views, Procedures, Functions, Triggers |
 | `Screenshots_of_Outputs.pdf` | Output results of all analytical queries + Final Insights Report |
+| `ER_Diagram.png` | Entity-Relationship Diagram of the database |
 
 ---
 
